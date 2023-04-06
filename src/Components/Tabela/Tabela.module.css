@@ -1,0 +1,20 @@
+.tabela{
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+}
+
+.linha{
+    display: flex;
+    justify-content: space-between;
+    margin: 8px;
+    border-bottom: 2px solid var(--cor3);
+}
+
+.coluna1{
+    margin-right: 64px;
+}
+
+.coluna2{
+    color: var(--cor1);
+}

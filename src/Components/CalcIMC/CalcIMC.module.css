@@ -1,0 +1,38 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+.input{
+    text-align: center;
+    font-size: 32px;
+    max-width: 96px;
+    padding: 8px;
+    margin-top: 4px;
+    background-color: var(--cor1);
+    color: var(--cor2);
+    border-radius: 4px;
+}
+
+.text{
+    font-size: 24px;
+    margin: 16px 0;
+    color: var(--cor3);
+}
+
+.textResult{
+    font-size: 40px;
+    color: var(--cor3);
+    background-color: var(--cor2);
+    padding: 16px;
+    border-radius: 50%;
+}
+
+.textSub{
+    font-size: 16px;
+    margin: 16px 0;
+    color: var(--cor3);
+}
